@@ -1,0 +1,13 @@
+# Flutter build outputs
+Apexo/build/
+Apexo/.dart_tool/
+Apexo/.idea/
+Apexo/.vscode/
+
+# PocketBase data
+Apexo/backend/pb_data/
+
+# Windows binaries (si no quieres subirlos al repo)
+*.exe
+*.dll
+*.pdb
