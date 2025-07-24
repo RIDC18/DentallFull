@@ -1,13 +1,12 @@
-# Flutter build outputs
-Apexo/build/
-Apexo/.dart_tool/
-Apexo/.idea/
-Apexo/.vscode/
+# Ignorar builds de Flutter
+apexo-flutter/build/
+apexo-flutter/.dart_tool/
+apexo-flutter/.idea/
+apexo-flutter/.vscode/
 
-# PocketBase data
-Apexo/backend/pb_data/
+# Ignorar datos de PocketBase
+DentalFull/backend/pb_data/
 
-# Windows binaries (si no quieres subirlos al repo)
-*.exe
-*.dll
-*.pdb
+# Ignorar temporales
+*.log
+*.tmp
